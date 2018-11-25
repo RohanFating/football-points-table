@@ -11,7 +11,6 @@ This project is used to genrate and show football points table in format below:
     - goal difference
     - points
 
-
 ## Available Scripts
 
 In the project directory, you can run:
