@@ -11,6 +11,16 @@ This project is used to genrate and show football points table in format below:
     - goal difference
     - points
 
+## Setup and Installation
+
+1. git clone https://github.com/RohanFating/cake-online-react-redux.git
+2. Go to folder cake-online-react-redux / cake-app
+3. Open terminal and run command - npm install
+4. To launch application run command - npm start
+5. open "http://localhost:3000/" in browser
+6. To run unit test run command in terminal -  npm test
+7. To build application run in terminal - npm run build
+
 ## Available Scripts
 
 In the project directory, you can run:
